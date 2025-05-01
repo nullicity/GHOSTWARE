@@ -4,4 +4,4 @@ password to the zip is ghostware btw
 download it [here](https://github.com/nullicity/GHOSTWARE/raw/refs/heads/main/ghostware.zip)
 
 
--# discord server: https://discord.gg/zEnR6EwquM
+join the discord server for support: https://discord.gg/zEnR6EwquM
